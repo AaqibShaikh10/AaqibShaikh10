@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="amGITjjUl4Jlu2pbifDh8UnN2tyTKVyx-AOGP6KR5hQ" />
 <!-- 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
