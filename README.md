@@ -12,7 +12,7 @@
 <a href="https://aaqibshaikh.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img alt="Portfolio" src="assets/link-portfolio-light.svg" width="113" height="40"></picture></a>
 <a href="https://www.aaqibshaikh.dev/assets/files/aaqib-shaikh-cv.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-resume-dark.svg"><img alt="Resume (PDF)" src="assets/link-resume-light.svg" width="111" height="40"></picture></a>
 <a href="https://www.freelancer.com/u/AaqibShaikh10"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-freelancer-dark.svg"><img alt="Freelancer.com profile" src="assets/link-freelancer-light.svg" width="127" height="40"></picture></a>
-<a href="https://www.linkedin.com/in/aaqib-shaikh-432b26306/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="assets/link-linkedin-light.svg" width="112" height="40"></picture></a>
+<a href="https://www.linkedin.com/in/aaqibshaikh10/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="assets/link-linkedin-light.svg" width="112" height="40"></picture></a>
 <a href="mailto:aaqibshaikh300@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img alt="Email aaqibshaikh300@gmail.com" src="assets/link-email-light.svg" width="94" height="40"></picture></a>
 </p>
 
